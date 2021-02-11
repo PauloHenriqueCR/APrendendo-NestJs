@@ -1,4 +1,4 @@
-## Live em que aprendemos o básico de Nest.js
+##Aprendendo o básico de Nest.js
 
 - Hello Word.   
 - Prática.
