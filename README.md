@@ -1,8 +1,5 @@
 ## Live em que aprendemos o básico de Nest.js
 
-
-a galera no chat deu as seguintes dicas para aprender uma linguagem ou firework novos:
-
 - Hello Word.   
 - Prática.
 - Ler documentação.
